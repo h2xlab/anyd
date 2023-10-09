@@ -1,0 +1,13 @@
+torch==1.9
+torchvision
+opencv-python
+matplotlib
+einops
+scipy
+scikit-learn
+pyquaternion
+cachetools
+av2
+psutil
+google-api-python-client
+protobuf==3.20
