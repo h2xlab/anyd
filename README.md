@@ -8,7 +8,7 @@ This is official PyTorch/GPU implementation of the paper [Learning to Drive Anyw
 
 ```
 @inproceedings{zhu2023learning,
-  title={Learning to Drive Anywhere via Regional Channel Attention},
+  title={Learning to Drive Anywhere},
   author={Zhu, Ruizhao and Huang, Peng and Ohn-Bar, Eshed and Saligrama, Venkatesh},
   booktitle={7th Annual Conference on Robot Learning},
   year={2023}
