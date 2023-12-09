@@ -15,16 +15,6 @@ This is official PyTorch/GPU implementation of the paper [Learning to Drive Anyw
 }
 ```
 
-```
-@article{zhu2023learning,
-  title={Learning to Drive Anywhere},
-  author={Zhu, Ruizhao and Huang, Peng and Ohn-Bar, Eshed and Saligrama, Venkatesh},
-  journal={arXiv preprint arXiv:2309.12295},
-  year={2023}
-}
-```
-
-
 ## Updates
 [10/08] Adding a minimal version for training and testing. More functions will coming soon!
 ### Catalog
